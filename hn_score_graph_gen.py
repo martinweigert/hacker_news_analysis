@@ -4,7 +4,7 @@ from pathlib import Path
 
 
 
-### Reading the scores of Hacker News articles from text files generated with hn_scores_plotting
+### Reading the scores of Hacker News articles from text files generated with hn_scores_tracking.py
 ### and plotting them in a graph.
 ### Note: All txt files must have the same number of items and a string(titel) as first index.
 ### Note: nummeration of the txt files must be ascending without interuption (i.e. 1, 2, 3; not 1, 4, 5)
