@@ -30,7 +30,7 @@ def file_to_list(file,number,title,id,score):
         pprint.pprint(score, file_scores)
         major_list[number-1].append(score)
 
-# plot function handles the plotting and the automatic closing of the plot
+# plot function handles the plotting.
 
 def plot():
     timestamp = []
